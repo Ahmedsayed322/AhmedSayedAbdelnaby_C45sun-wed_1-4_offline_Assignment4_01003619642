@@ -1,0 +1,15 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "main": "bonus.js",
+  "scripts": {
+    "start": "node --watch part1.js",
+    "start:bonus": "node bonus.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
